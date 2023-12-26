@@ -1,0 +1,6 @@
+
+.idea/
+_tokens
+_notes
+*.pyc
+venv
